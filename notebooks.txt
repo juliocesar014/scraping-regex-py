@@ -1,0 +1,114 @@
+Title notebook: Asus VivoBook X441NA-GA190	 - Price notebook: $295.99
+Title notebook: Prestigio SmartBook 133S Dark Grey	 - Price notebook: $299.00
+Title notebook: Prestigio SmartBook 133S Gold	 - Price notebook: $299.00
+Title notebook: Aspire E1-510	 - Price notebook: $306.99
+Title notebook: Lenovo V110-15IAP	 - Price notebook: $321.94
+Title notebook: Lenovo V110-15IAP	 - Price notebook: $356.49
+Title notebook: Hewlett Packard 250 G6 Dark Ash Silver	 - Price notebook: $364.46
+Title notebook: Acer Aspire 3 A315-31 Black	 - Price notebook: $372.70
+Title notebook: Acer Aspire A315-31-C33J	 - Price notebook: $379.94
+Title notebook: Acer Aspire ES1-572 Black	 - Price notebook: $379.95
+Title notebook: Acer Aspire 3 A315-31 Black	 - Price notebook: $391.48
+Title notebook: Acer Aspire 3 A315-21	 - Price notebook: $393.88
+Title notebook: Asus VivoBook Max	 - Price notebook: $399.00
+Title notebook: Asus VivoBook E502NA-GO022T Dark Blue	 - Price notebook: $399.99
+Title notebook: Lenovo ThinkPad E31-80	 - Price notebook: $404.23
+Title notebook: Acer Aspire 3 A315-31 Black	 - Price notebook: $408.98
+Title notebook: Lenovo V110-15ISK	 - Price notebook: $409.63
+Title notebook: Acer Aspire ES1-732 Black	 - Price notebook: $410.46
+Title notebook: Asus VivoBook 15 X540NA-GQ026T	 - Price notebook: $410.66
+Title notebook: Packard 255 G2	 - Price notebook: $416.99
+Title notebook: Asus EeeBook R416NA-FA014T	 - Price notebook: $433.30
+Title notebook: Acer Aspire 3 A315-51	 - Price notebook: $436.29
+Title notebook: Acer Aspire ES1-572 Black	 - Price notebook: $436.29
+Title notebook: Acer Extensa 15 (2540) Black	 - Price notebook: $439.73
+Title notebook: Acer Aspire ES1-572 Black	 - Price notebook: $454.62
+Title notebook: Lenovo V110-15ISK	 - Price notebook: $454.73
+Title notebook: Acer Aspire A315-51-33TG	 - Price notebook: $457.38
+Title notebook: Lenovo V110-15IKB	 - Price notebook: $465.95
+Title notebook: Asus VivoBook 15 X540UA-DM260 Chocolate Black	 - Price notebook: $468.56
+Title notebook: Acer Aspire ES1-572 Black	 - Price notebook: $469.10
+Title notebook: Lenovo V510 Black	 - Price notebook: $484.23
+Title notebook: Acer Aspire ES1-572 Black	 - Price notebook: $485.90
+Title notebook: Lenovo V510 Black	 - Price notebook: $487.80
+Title notebook: Acer Swift 1 SF113-31 Silver	 - Price notebook: $488.64
+Title notebook: Dell Vostro 15	 - Price notebook: $488.78
+Title notebook: Acer Aspire 3 A315-51 Black	 - Price notebook: $494.71
+Title notebook: Dell Vostro 15 (3568) Red	 - Price notebook: $497.17
+Title notebook: Lenovo V510 Black	 - Price notebook: $498.23
+Title notebook: HP 250 G3	 - Price notebook: $520.99
+Title notebook: Acer Spin 5	 - Price notebook: $564.98
+Title notebook: HP 350 G1	 - Price notebook: $577.99
+Title notebook: Aspire E1-572G	 - Price notebook: $581.99
+Title notebook: Pavilion	 - Price notebook: $609.99
+Title notebook: Acer Aspire A515-51-5654	 - Price notebook: $679.00
+Title notebook: Dell Inspiron 15	 - Price notebook: $679.00
+Title notebook: Asus VivoBook S14	 - Price notebook: $729.00
+Title notebook: ProBook	 - Price notebook: $739.99
+Title notebook: Inspiron 15	 - Price notebook: $745.99
+Title notebook: Asus ROG STRIX GL553VD-DM256	 - Price notebook: $799.00
+Title notebook: Acer Nitro 5 AN515-51	 - Price notebook: $809.00
+Title notebook: Asus ROG STRIX GL553VD-DM256	 - Price notebook: $899.00
+Title notebook: Lenovo ThinkPad L570	 - Price notebook: $999.00
+Title notebook: ThinkPad Yoga	 - Price notebook: $1033.99
+Title notebook: Lenovo ThinkPad L460	 - Price notebook: $1096.02
+Title notebook: Dell Inspiron 15 (7567) Black	 - Price notebook: $1098.42
+Title notebook: MSI GL72M 7RDX	 - Price notebook: $1099.00
+Title notebook: MSI GL72M 7RDX	 - Price notebook: $1099.00
+Title notebook: Asus ROG Strix GL553VD-DM535T	 - Price notebook: $1101.83
+Title notebook: Dell Latitude 5280	 - Price notebook: $1102.66
+Title notebook: Dell Latitude 5480	 - Price notebook: $1110.14
+Title notebook: Lenovo Legion Y520-15IKBM	 - Price notebook: $1112.91
+Title notebook: Toshiba Portege Z30-C-16J Grey	 - Price notebook: $1114.55
+Title notebook: Acer Predator Helios 300 (PH317-51)	 - Price notebook: $1123.87
+Title notebook: Acer Aspire 7 A715-71G	 - Price notebook: $1123.87
+Title notebook: Dell Inspiron 17 2in1 (7779) Silver	 - Price notebook: $1124.20
+Title notebook: Dell Latitude 5480	 - Price notebook: $1133.82
+Title notebook: Lenovo Legion Y520	 - Price notebook: $1133.91
+Title notebook: Asus AsusPro Advanced BU401LA-FA271G Dark Grey	 - Price notebook: $1139.54
+Title notebook: Acer Nitro 5 AN515-51	 - Price notebook: $1140.62
+Title notebook: Dell Latitude 5480	 - Price notebook: $1143.40
+Title notebook: Dell Inspiron 15 (7567) Black	 - Price notebook: $1144.20
+Title notebook: Dell Latitude 5580	 - Price notebook: $1144.40
+Title notebook: Lenovo Legion Y520-15IKBM	 - Price notebook: $1149.00
+Title notebook: MSI GP62M 7RDX Leopard	 - Price notebook: $1149.00
+Title notebook: Lenovo Yoga 720 Grey	 - Price notebook: $1149.73
+Title notebook: Toshiba Portege Z30-C-16L Grey	 - Price notebook: $1154.04
+Title notebook: Acer TravelMate P645-S-511A Black	 - Price notebook: $1170.10
+Title notebook: Dell Latitude 5580	 - Price notebook: $1178.19
+Title notebook: ThinkPad T540p	 - Price notebook: $1178.99
+Title notebook: MSI GS63 7RD Stealth	 - Price notebook: $1179.00
+Title notebook: Dell Latitude 5480	 - Price notebook: $1187.88
+Title notebook: Acer Predator Helios 300 (PH317-51)	 - Price notebook: $1187.98
+Title notebook: MSI GL62M 7REX	 - Price notebook: $1199.00
+Title notebook: MSI GL62M 7REX2	 - Price notebook: $1199.00
+Title notebook: Lenovo Yoga 910 Grey	 - Price notebook: $1199.73
+Title notebook: Toshiba Portege X30-D-10J Black/Blue	 - Price notebook: $1203.41
+Title notebook: Lenovo IdeaPad Miix 510 Platinum Silver	 - Price notebook: $1212.16
+Title notebook: Acer Predator Helios 300 (PH317-51)	 - Price notebook: $1221.58
+Title notebook: ThinkPad Yoga	 - Price notebook: $1223.99
+Title notebook: Asus VivoBook Pro 15 N580VN-FI006T Gold Metal	 - Price notebook: $1235.49
+Title notebook: Dell Latitude 5480	 - Price notebook: $1238.37
+Title notebook: Asus ZenBook UX530UX-FY040T Blue	 - Price notebook: $1239.20
+Title notebook: ThinkPad X230	 - Price notebook: $1244.99
+Title notebook: Asus ROG Strix GL753VE-GC096T	 - Price notebook: $1259.00
+Title notebook: Dell Latitude 5480	 - Price notebook: $1260.13
+Title notebook: Hewlett Packard Spectre 13-v106na Dark Ash Silver	 - Price notebook: $1271.06
+Title notebook: Dell XPS 13	 - Price notebook: $1273.11
+Title notebook: Toshiba Portege Z30-C-16K Grey	 - Price notebook: $1281.99
+Title notebook: MSI GL62VR 7RFX	 - Price notebook: $1294.74
+Title notebook: Dell Latitude 5480	 - Price notebook: $1299.00
+Title notebook: ThinkPad X240	 - Price notebook: $1310.39
+Title notebook: Hewlett Packard ProBook 640 G3	 - Price notebook: $1311.99
+Title notebook: Dell Latitude 5580	 - Price notebook: $1326.83
+Title notebook: Dell Latitude 5480	 - Price notebook: $1333.00
+Title notebook: Dell Latitude 5580	 - Price notebook: $1337.28
+Title notebook: Lenovo ThinkPad T470	 - Price notebook: $1338.37
+Title notebook: Lenovo ThinkPad Yoga 370 Black	 - Price notebook: $1341.22
+Title notebook: Toshiba Portege X20W-D-10V Black/Blue	 - Price notebook: $1347.78
+Title notebook: Asus ASUSPRO B9440UA-GV0279R Gray	 - Price notebook: $1349.23
+Title notebook: Lenovo Legion Y720	 - Price notebook: $1362.24
+Title notebook: Asus ROG Strix GL702VM-GC146T	 - Price notebook: $1366.32
+Title notebook: Asus ROG Strix GL702ZC-GC154T	 - Price notebook: $1381.13
+Title notebook: Asus ROG Strix GL702ZC-GC209T	 - Price notebook: $1399.00
+Title notebook: Asus ROG Strix SCAR Edition GL503VM-ED115T	 - Price notebook: $1399.00
